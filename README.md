@@ -18,6 +18,9 @@ Kemudian membuat file index.php
 ![web 6](https://user-images.githubusercontent.com/56400200/120880254-6a88b100-c5f3-11eb-9e14-e7e43981c775.png)
 ![web 6 ke 2](https://user-images.githubusercontent.com/56400200/120880270-9146e780-c5f3-11eb-9bd7-5f7141847777.png)
 ![web 6(1)](https://user-images.githubusercontent.com/56400200/120880279-b3406a00-c5f3-11eb-8868-c34e8335b9eb.png)
+Selanjutnya menambahkan data (create) buat file baru dengan menamakan tambah.php
+![web 7](https://user-images.githubusercontent.com/56400200/120880321-0b776c00-c5f4-11eb-9ed1-dd34daffb4f9.png)
+
 
 
 
