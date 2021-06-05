@@ -20,6 +20,7 @@ Kemudian membuat file index.php
 ![web 6(1)](https://user-images.githubusercontent.com/56400200/120880279-b3406a00-c5f3-11eb-8868-c34e8335b9eb.png)
 Selanjutnya menambahkan data (create) buat file baru dengan menamakan tambah.php
 ![web 7](https://user-images.githubusercontent.com/56400200/120880321-0b776c00-c5f4-11eb-9ed1-dd34daffb4f9.png)
+![web 7 ke 2](https://user-images.githubusercontent.com/56400200/120880413-92c4df80-c5f4-11eb-9cc5-f26d6421d700.png)
 
 
 
