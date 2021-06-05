@@ -28,6 +28,8 @@ Dan selanjutnya Mengubah Data (update). Buat file dengan menamakan ubah.php
 ![web 8 ke 2](https://user-images.githubusercontent.com/56400200/120880738-48dcf900-c5f6-11eb-8d72-004a41783f86.png)
 ![web 8 ke 3](https://user-images.githubusercontent.com/56400200/120880769-71fd8980-c5f6-11eb-995c-de1ba0016f71.png)
 ![web 8(2)](https://user-images.githubusercontent.com/56400200/120880798-9fe2ce00-c5f6-11eb-876f-867e28d63010.png)
+Kemudian terakhit yaitu menghapus data (delete) dengan membuat file hapus.php
+![web 9](https://user-images.githubusercontent.com/56400200/120880844-fa7c2a00-c5f6-11eb-81fe-38ef95f87315.png)
 
 
 
