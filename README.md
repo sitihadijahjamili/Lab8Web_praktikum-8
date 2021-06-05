@@ -22,6 +22,9 @@ Selanjutnya menambahkan data (create) buat file baru dengan menamakan tambah.php
 ![web 7](https://user-images.githubusercontent.com/56400200/120880321-0b776c00-c5f4-11eb-9ed1-dd34daffb4f9.png)
 ![web 7 ke 2](https://user-images.githubusercontent.com/56400200/120880413-92c4df80-c5f4-11eb-9cc5-f26d6421d700.png)
 ![web 7 ke 3](https://user-images.githubusercontent.com/56400200/120880457-e46d6a00-c5f4-11eb-89c1-e246250e840e.png)
+![web 7(1)](https://user-images.githubusercontent.com/56400200/120880579-bb010e00-c5f5-11eb-95e6-3509e487eb5c.png)
+Dan selanjutnya Mengubah Data (update). Buat file dengan menamakan ubah.php
+
 
 
 
