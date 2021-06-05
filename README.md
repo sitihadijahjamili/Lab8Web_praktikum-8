@@ -12,6 +12,7 @@ Kemudian selanjutnya yaitu membuat program CRUD. Buat folder dengan menamakan la
 kemudian untuk mengaksesnya web server dengan URL http://localhost/lab8_php_database/
 ![web 4(1)](https://user-images.githubusercontent.com/56400200/120880129-8e97c280-c5f2-11eb-91c5-b9903ebd0637.PNG)
 Selanjutnya membuat file koneksi database. Membuat file nama koneksi.php
+![web 5](https://user-images.githubusercontent.com/56400200/120880186-e6cec480-c5f2-11eb-83ae-832826e21273.PNG)
 
 
 
