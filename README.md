@@ -10,6 +10,10 @@ Dan selanjutnya yaitu menambahkan Data
 Kemudian selanjutnya yaitu membuat program CRUD. Buat folder dengan menamakan lab8_php_database seperti berikut ini
 ![web 4](https://user-images.githubusercontent.com/56400200/120879999-9d31aa00-c5f1-11eb-94a2-aa58c88fc5ea.PNG)
 kemudian untuk mengaksesnya web server dengan URL http://localhost/lab8_php_database/
+![web 4(1)](https://user-images.githubusercontent.com/56400200/120880129-8e97c280-c5f2-11eb-91c5-b9903ebd0637.PNG)
+Selanjutnya membuat file koneksi database. Membuat file nama koneksi.php
+
+
 
 
 
