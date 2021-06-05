@@ -15,6 +15,8 @@ Selanjutnya membuat file koneksi database. Membuat file nama koneksi.php kemudia
 ![web 5](https://user-images.githubusercontent.com/56400200/120880186-e6cec480-c5f2-11eb-83ae-832826e21273.PNG)
 ![web 5(1)](https://user-images.githubusercontent.com/56400200/120880209-09f97400-c5f3-11eb-97d3-ddd86b10c284.PNG)
 Kemudian membuat file index.php
+![web 6](https://user-images.githubusercontent.com/56400200/120880254-6a88b100-c5f3-11eb-9e14-e7e43981c775.png)
+
 
 
 
