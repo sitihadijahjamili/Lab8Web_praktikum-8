@@ -21,6 +21,7 @@ Kemudian membuat file index.php
 Selanjutnya menambahkan data (create) buat file baru dengan menamakan tambah.php
 ![web 7](https://user-images.githubusercontent.com/56400200/120880321-0b776c00-c5f4-11eb-9ed1-dd34daffb4f9.png)
 ![web 7 ke 2](https://user-images.githubusercontent.com/56400200/120880413-92c4df80-c5f4-11eb-9cc5-f26d6421d700.png)
+![web 7 ke 3](https://user-images.githubusercontent.com/56400200/120880457-e46d6a00-c5f4-11eb-89c1-e246250e840e.png)
 
 
 
