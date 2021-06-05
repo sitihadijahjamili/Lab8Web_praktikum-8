@@ -26,6 +26,8 @@ Selanjutnya menambahkan data (create) buat file baru dengan menamakan tambah.php
 Dan selanjutnya Mengubah Data (update). Buat file dengan menamakan ubah.php
 ![web 8](https://user-images.githubusercontent.com/56400200/120880711-21862c00-c5f6-11eb-8682-ec2fe1a849fd.png)
 ![web 8 ke 2](https://user-images.githubusercontent.com/56400200/120880738-48dcf900-c5f6-11eb-8d72-004a41783f86.png)
+![web 8 ke 3](https://user-images.githubusercontent.com/56400200/120880769-71fd8980-c5f6-11eb-995c-de1ba0016f71.png)
+
 
 
 
