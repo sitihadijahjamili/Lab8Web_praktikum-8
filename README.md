@@ -30,6 +30,8 @@ Dan selanjutnya Mengubah Data (update). Buat file dengan menamakan ubah.php
 ![web 8(2)](https://user-images.githubusercontent.com/56400200/120880798-9fe2ce00-c5f6-11eb-876f-867e28d63010.png)
 Kemudian terakhit yaitu menghapus data (delete) dengan membuat file hapus.php
 ![web 9](https://user-images.githubusercontent.com/56400200/120880844-fa7c2a00-c5f6-11eb-81fe-38ef95f87315.png)
+![web 9(2)](https://user-images.githubusercontent.com/56400200/120880885-4af38780-c5f7-11eb-9604-3f2fbb62bea6.png)
+TERIMAKASIH.
 
 
 
