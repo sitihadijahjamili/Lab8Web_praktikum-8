@@ -5,6 +5,7 @@ Membuat DaraBase dengan menamakan latihan1 dan membuat tabel, Seperti berikut in
 ![Web 2](https://user-images.githubusercontent.com/56400200/120879816-48d9fa80-c5f0-11eb-94d1-cd28c11dacd9.PNG)
 Dan selanjutnya yaitu menambahkan Data
 ![web 3](https://user-images.githubusercontent.com/56400200/120879866-b128dc00-c5f0-11eb-989e-c3abfebfa2ff.PNG)
+![web 3(1)](https://user-images.githubusercontent.com/56400200/120879907-e9c8b580-c5f0-11eb-9481-10ae1fcbc22c.png)
 
 
 
